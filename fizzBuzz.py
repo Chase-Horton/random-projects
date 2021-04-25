@@ -16,4 +16,4 @@ print(word)
 # z is taken from str method zfill
 # __class__.__name__ returns the name of the 
 # class of the object it is attached to
-# classes used are float, int, and tuple
+# classes used are float, int, bool, and tuple
