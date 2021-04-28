@@ -1,0 +1,14 @@
+program ::= {statement}
+statement ::= "PREACH" (expression | string) nl
+    | "IF" "GOD" "PERMITS" comparison "THEN" nl {statement} "ENDIF" nl
+    | "WHILE" comparison "REPEAT" nl {statement} "ENDWHILE" nl
+    | "MARK" ident nl
+    | "GOTO" ident nl
+    | "PRAY" ident "=" expression nl
+    | "CONFESS" ident nl
+comparison ::= expression (("==" | "!=" | ">" | ">=" | "<" | "<=") expression)+
+expression ::= term {( "-" | "+" ) term}
+term ::= unary {( "/" | "*" ) unary}
+unary ::= ["+" | "-"] primary
+primary ::= number | ident
+nl ::= '\n'+

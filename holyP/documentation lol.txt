@@ -1,0 +1,35 @@
+declaring variables,
+
+	PRAY THAT (variable) is a (type)
+
+initializing variables,
+	
+	PRAY (variable) = (value)
+
+printing variables,
+
+	Preach(variable)
+
+if,
+	Hebrews 6:3
+	"And this we will do, if God permits."
+
+	if God Permits (action){
+		do
+	}
+
+
+Else does not exist because actions may not be performed if god does not permit them
+
+keyWords{
+	int: HolyInteger
+	double: HolyDecimal
+	float: HolyFloat
+	bool: HolyBool
+	input: INQUIRE
+	RETURN : EXORCISE
+	GOD
+	IF
+	PERMITS
+	THEN
+}

@@ -1,0 +1,10 @@
+~Calculates the Fibonacci Sequence in holyP
+
+PREACH "How many Fibonacci Numbers would you like?"
+CONFESS numbers
+PREACH ""
+PRAY a = 0
+PRAY b = 1
+IF GOD PERMITS b > 0 THEN
+    PREACH b
+ENDIF

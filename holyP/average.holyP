@@ -1,0 +1,15 @@
+PREACH "Enter a number of scores: "
+CONFESS a
+PRAY b = 0
+PRAY total = 0
+PREACH "Enter one value at a time: "
+WHILE b < a REPEAT
+    CONFESS c
+    PRAY total = total + c
+    PRAY b = b + 1
+ENDWHILE
+
+PREACH "AVERAGE: "
+PREACH total/a
+PREACH "Type anything and press enter to close"
+CONFESS l

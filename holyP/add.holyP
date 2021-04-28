@@ -1,0 +1,7 @@
+PRAY x = 3 * 7
+IF GOD PERMITS x > 5 THEN  
+    PREACH "x is greater than 5"
+    IF GOD PERMITS x > 25 THEN
+        PREACH "x is greater than 25"
+    ENDIF
+ENDIF
