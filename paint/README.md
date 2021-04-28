@@ -1,0 +1,2 @@
+# Paint.py
+This is an extremely simple program I made because I like abstract art, and wanted a new wallpaper. The program is configured to  use **Microsoft Paint** at *1920x1080* resolution. It randomly selects colors from a list, randomly selects brush sizes, and places brushstrokes of random length within a specified range, within a specified canvas size. The program also allows the user to enter a random seed for the drawing. 
