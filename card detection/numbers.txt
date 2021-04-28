@@ -1,0 +1,14 @@
+width of card 2711
+height of card 4151
+crop area
+height 1639
+width 698
+3.8
+2.5
+width 898
+height 1354
+555
+244
+3.6
+2.4
+884
