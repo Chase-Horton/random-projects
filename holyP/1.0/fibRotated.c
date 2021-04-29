@@ -1,7 +1,5 @@
 #include <stdio.h>
 int main(void){
-#include <stdio.h>
-int main(void){
 float numbers;
 float a;
 float b;
